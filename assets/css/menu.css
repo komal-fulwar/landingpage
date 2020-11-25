@@ -176,8 +176,8 @@ a.navbar-brand {
     float: none;
     color: #737d8b;
     border-top: 1px solid #ACAEB2;
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left,   #5ed35a 0%,  #5a53bd 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right,  #5ed35a 0%, #5a53bd 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left,   #5ed35a 0%,  #5ed35a 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right,  #5ed35a 0%, #5ed35a 100%) repeat scroll 0 0;
   }
   #main-nav li:first-child {
     border: none;
