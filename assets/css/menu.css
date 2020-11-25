@@ -5,8 +5,8 @@
   z-index: 999;
 }
 .menu-bg-overlay {
-  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #5a53bd 0%,  #5a53bd 100%) repeat scroll 0 0;
-  background: rgba(0, 0, 0, 0) linear-gradient(to right,  #5a53bd 0%,  #5a53bd 100%) repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left,  #5ed35a 0%,  #39b349 100%) repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0) linear-gradient(to right,  #5ed35a 0%, #39b349 100%) repeat scroll 0 0;
   transition: .3s all ease-in-out;
 }
 .navbar-default .navbar-brand {
@@ -101,8 +101,7 @@ a.navbar-brand {
 .main-menu .navbar-default .navbar-toggle:hover .icon-bar {
   background-color: #ffffff;
 } 
-.navbar-default .navbar-toggle {
-}
+
 .home nav.navbar-collapse ul.navbar-nav {
   padding-right: 60px;
 }
@@ -177,8 +176,8 @@ a.navbar-brand {
     float: none;
     color: #737d8b;
     border-top: 1px solid #ACAEB2;
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left,  #5a53bd 0%,  #5a53bd 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right,  #5a53bd 0%, #5a53bd 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left,   #5ed35a 0%,  #5a53bd 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right,  #5ed35a 0%, #5a53bd 100%) repeat scroll 0 0;
   }
   #main-nav li:first-child {
     border: none;
